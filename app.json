@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "OnlyFans",
-    "slug": "OnlyFans"
+    "slug": "OnlyFans",
+    "android": {
+      "package": "onlyfans.com"
+    }
   }
 }
