@@ -7,7 +7,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png',
     name: 'Elon',
     handle: 'elon',
-    bio: 'hello',
+    bio: 'Hey there! I\'m Elon, your friendly neighborhood creator on OnlyFans. I\'m passionate about art, self-expression, and connecting with amazing people like you. My content is all about celebrating sensuality, body positivity, and embracing life\'s beautiful moments.',
     subscriptionPrice: 0,
   },
   {
@@ -18,7 +18,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg',
     name: 'Jeff',
     handle: 'jeff',
-    bio: 'hello',
+    bio: 'Hello',
     subscriptionPrice: 4.99,
   },
   {
